@@ -1,0 +1,19 @@
+
+/* SideNav.css */
+.submenu {
+    list-style: none;
+    /* padding-left: 20px; */
+    background-color: #34495e;
+}
+
+.submenu li a {
+    display: block;
+    /* padding: 5px 0; */
+    color: white;
+    text-decoration: none;
+}
+
+.submenu li a:hover {
+    background-color: #34495e;
+    border-radius: 5px;
+}
