@@ -17,3 +17,19 @@
     background-color: #34495e;
     border-radius: 5px;
 }
+
+.accordion-button{
+    background-color: #34495e;
+}
+
+.accordion-item {
+    background-color: #34495e;
+    border: 0px solid #34495e;
+    padding: 0%;
+}
+
+.accordion-body {
+    background-color: #34495e;
+    border-top: 0px solid #34495e; 
+    padding: 0%;
+}

@@ -2,7 +2,7 @@ import React from 'react';
 import { Accordion } from 'react-bootstrap';
 import "../gtran/GtranAccordion.css"
 import { Link } from 'react-router-dom';
-
+import "../gtran/GtranAccordion.css"
 
 
 const GtranAccordion = () => {
